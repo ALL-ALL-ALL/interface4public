@@ -60,22 +60,7 @@ HStack {
             SecureField("••••••••••", text: $password)
                 .padding()
         }
-        
-        Button(action: {
-            showPassword.toggle()
-        }) {
-            Image(systemName: showPassword ? "eye.slash.fill" : "eye.fill")
-                .foregroundColor(.gray)
-                .padding(.trailing, 15)
-        }
-    }
-    .background(Color.white)
-    .cornerRadius(4)
-    .overlay(
-        RoundedRectangle(cornerRadius: 4)
-            .stroke(Color.gray.opacity(0.5), lineWidth: 1)
-    )
-}
+
 ```
 
 ## Licence
