@@ -27,7 +27,6 @@ L'achat comprend :
 - Asset d'arrière-plan de marbre en haute résolution
 - Documentation d'intégration détaillée
 - Support technique post-achat
-- Mise à jour gratuite pendant 6 mois
 
 *Note : Des versions fonctionnelles avec authentification réelle pourront être proposées ultérieurement. Les acheteurs de la version statique actuelle bénéficieront de tarifs préférentiels pour ces mises à niveau.*
 
