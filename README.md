@@ -50,16 +50,17 @@ Achetez cette interface directement en [(URL à venir)]* ou contactez-moi pour t
 ## Extrait de code
 Voici un aperçu du style de code utilisé (version limitée) :
 ```swift
-// Champ de saisie avec bouton de visibilité
-HStack {
-    ZStack(alignment: .trailing) {
-        if showPassword {
-            TextField("••••••••••", text: $password)
-                .padding()
-        } else {
-            SecureField("••••••••••", text: $password)
-                .padding()
-        }
+VStack(spacing: 25) {
+                // Titre
+                Text("Log in")
+                    .font(.system(size: 38, weight: .regular))
+                    .padding(.bottom, 90)
+
+                
+                // Champ email
+                TextField("jane@example.com", text: $email)
+                    .padding()
+                    .background(Color.white)
 
 ```
 
