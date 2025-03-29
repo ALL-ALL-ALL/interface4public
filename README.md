@@ -29,7 +29,6 @@ L'achat comprend :
 - Asset d'arrière-plan de marbre en haute résolution
 - Documentation d'intégration détaillée
 - Support technique post-achat
-- [Autres éléments spécifiques à chaque interface, comme les assets graphiques]
 
 
 
