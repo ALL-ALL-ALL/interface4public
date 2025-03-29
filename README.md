@@ -1,9 +1,8 @@
 # Interface de Connexion iOS avec Fond Marbre
 Une interface de connexion élégante et sophistiquée pour applications iOS, développée avec SwiftUI. Cette interface combine un fond de marbre bleu et rose avec une structure épurée, idéale pour les applications premium ciblant un public recherchant des expériences visuelles raffinées.
 
-<img width="110" alt="SCR-20250317-cclq" src="https://github.com/user-attachments/assets/47bcc618-f388-40b7-b0ef-273810121ddc" />
+![SCR-20250329-cqcy](https://github.com/user-attachments/assets/2a9d2585-941b-4a56-a09c-e10c3c348ea8)
 
-**Note sur les visuels :** Les captures d'écran présentées sont des exemples de design. Les couleurs et éléments visuels spécifiques (comme le logo "A") sont personnalisables et servent uniquement d'illustration. L'achat comprend la structure de l'interface et le code source, que vous pourrez adapter à votre propre identité visuelle.
 
 
 ## Caractéristiques
