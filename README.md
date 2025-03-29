@@ -3,6 +3,7 @@ Une interface de connexion élégante et sophistiquée pour applications iOS, d�
 
 <img width="110" alt="SCR-20250317-cclq" src="https://github.com/user-attachments/assets/47bcc618-f388-40b7-b0ef-273810121ddc" />
 
+**Note sur les visuels :** Les captures d'écran présentées sont des exemples de design. Les couleurs et éléments visuels spécifiques (comme le logo "A") sont personnalisables et servent uniquement d'illustration. L'achat comprend la structure de l'interface et le code source, que vous pourrez adapter à votre propre identité visuelle.
 
 
 ## Caractéristiques
