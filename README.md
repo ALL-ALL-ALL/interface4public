@@ -28,7 +28,8 @@ L'achat comprend :
 - Code source SwiftUI complet
 - Asset d'arrière-plan de marbre en haute résolution
 - Documentation d'intégration détaillée
-- Support technique post-achat
+- Durée du support : 1 mois après l'achat
+
 
 
 
